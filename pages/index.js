@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <>
       <Head>
-        <title>amil.dev - Front End Developer</title>
+        <title>amil.dev - Front End Developer </title>
         <meta key="title" content="Amil Silahic. Front End Developer" />
         des
       </Head>
