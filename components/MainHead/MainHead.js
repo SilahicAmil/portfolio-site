@@ -16,14 +16,27 @@ const MainHead = () => {
       />
       <h3 className="mt-6 mb-2 text-xl font-semibold">Amil Silahic</h3>
       <p>Front End Developer</p>
-      <div className="flex space-x-4 text-xl mt-2">
+      <div className="flex space-x-4  mt-2 p-4">
         {/* add logos here */}
-        <a href="https://google.com">
-          <BsLinkedin />
-        </a>
-        <a href="https://github.com">
-          <BsGithub />
-        </a>
+        <span className="btn btn-ghost text-3xl hover:bg-black hover:text-white">
+          <a
+            className=""
+            href="https://www.linkedin.com/in/amil-silahic-4b5a01140/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <BsLinkedin />
+          </a>
+        </span>
+        <span className="btn btn-ghost hover:bg-black hover:text-white text-3xl">
+          <a
+            href="https://github.com/SilahicAmil"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <BsGithub />
+          </a>
+        </span>
       </div>
     </div>
   );

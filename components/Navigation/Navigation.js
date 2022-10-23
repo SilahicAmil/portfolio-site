@@ -4,7 +4,7 @@ import { MdDarkMode } from "react-icons/md";
 
 const Navigation = () => {
   return (
-    <div className="navbar bg-white text-black font-mono">
+    <div className="navbar bg-[#f2f6f7] text-black font-mono">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden text-xl">
@@ -23,27 +23,26 @@ const Navigation = () => {
             </li>
           </ul>
         </div>
-        <div className="btn btn-ghost normal-case text-xl">
-          {" "}
+        <div className="btn btn-ghost normal-case text-xl hover:bg-black hover:text-white">
           <Link href="/">amil.dev</Link>
         </div>
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal p-0 gap-4">
-          <li className="btn rounded-lg text-white">
+        <ul className="menu menu-horizontal p-0 gap-4 text-black">
+          <li className="hover:bg-black hover:text-white hover:rounded-lg">
             {/* change buttons colors  */}
             <Link href="/about">About</Link>
           </li>
 
-          <li className="btn rounded-lg  text-white">
+          <li className="hover:bg-black hover:text-white hover:rounded-lg">
             <Link href="/works">Works</Link>
           </li>
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn text-white text-xl">
+        <button className="btn text-white text-lg ">
           <MdDarkMode />
-        </a>
+        </button>
       </div>
     </div>
   );
