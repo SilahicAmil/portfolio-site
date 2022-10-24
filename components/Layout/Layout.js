@@ -4,7 +4,7 @@ const Layout = (props) => {
   return (
     <>
       <Navigation />
-      <main className="bg-[#f2f6f7]">{props.children}</main>
+      <main className="">{props.children}</main>
     </>
   );
 };
