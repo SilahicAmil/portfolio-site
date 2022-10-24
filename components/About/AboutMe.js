@@ -1,3 +1,4 @@
+import { AiOutlineMobile } from "react-icons/ai";
 import { FaLocationArrow } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 import Image from "next/image";
@@ -76,7 +77,8 @@ const AboutMe = () => {
             </div>
           </div>
           <div className="flex gap-1 rounded-md p-2  bg-black text-white ">
-            <FaReact className="w-10 h-10 object-contain mr-2" />
+            {/* Change this to a mobile phone icon */}
+            <AiOutlineMobile className="w-10 h-10 object-contain mr-2" />
             <div className="space-y-2">
               <h3 className="text-2xl">App Development</h3>
               <p className="leading-8">

@@ -23,6 +23,9 @@ const Navigation = () => {
             <li className=" text-black">
               <Link href="/works">Works</Link>
             </li>
+            <li className=" text-black">
+              <Link href="/contact">Contact</Link>
+            </li>
           </ul>
         </div>
         <div className="btn btn-ghost normal-case text-xl hover:bg-black hover:text-white">
@@ -38,6 +41,9 @@ const Navigation = () => {
 
           <li className="hover:bg-black hover:text-white hover:rounded-lg">
             <Link href="/works">Works</Link>
+          </li>
+          <li className="hover:bg-black hover:text-white hover:rounded-lg">
+            <Link href="/contact">Contact</Link>
           </li>
         </ul>
       </div>

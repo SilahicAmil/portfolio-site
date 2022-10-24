@@ -10,7 +10,6 @@ const HomePage = () => {
           key="title"
           content="Amil Silahic. Front End Developer Main Page"
         />
-        des
       </Head>
       <MainHead />
     </>
