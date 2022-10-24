@@ -7,8 +7,8 @@ import ProfilePhoto from "../../public/profile-photo.jpeg";
 
 const AboutMe = () => {
   return (
-    <div className=" bg-[#f2f6f7] md:px-6 lg:px-20 px-4 lg:rounded-2xl sm:px-5 font-mono  items-center ">
-      <div className="">
+    <div className=" bg-[#f2f6f7]  md:px-6 lg:px-20 px-4 lg:rounded-2xl sm:px-5 font-mono items-center ">
+      <div className="py-12">
         <h2 className="mt-12 text-4xl lg:mt-0">About Me</h2>
         <div className="grid grid-cols-12  md:gap-10 pt-4 md:pt-[40px] items-center justify-center">
           <div className="col-span-12 md:col-span-4">
