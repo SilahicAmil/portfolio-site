@@ -13,7 +13,7 @@ const Portfolio = () => {
           <div className="grid md:grid-cols-2  justify-center gap-5">
             <div className="card   shadow-xl ">
               <figure>
-                <Image src={Takeya} alt="takey ticket photo" />
+                <Image src={Takeya} alt="takeya ticket photo" />
               </figure>
               <div className="card-body shadow-xl ">
                 <h2 className="card-title text-3xl">Takeya Ticket</h2>
