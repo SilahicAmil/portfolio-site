@@ -24,7 +24,7 @@ const AboutMe = () => {
               <p className="text-lg mb-2.5 leading-7">
                 Im a Front End Developer from Salt Lake City, Utah. Working in
                 Web and Mobile Application Development. I enjoy turning complex
-                problems into, ineractive and responsive sites and apps!
+                problems into, interactive and responsive sites and apps!
               </p>
               <p className="text-md mt-2.5">
                 My aim is to bring ideas from paper into useable and enjoyable

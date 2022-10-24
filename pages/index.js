@@ -6,7 +6,10 @@ const HomePage = () => {
     <>
       <Head>
         <title>amil.dev - Front End Developer </title>
-        <meta key="title" content="Amil Silahic. Front End Developer" />
+        <meta
+          key="title"
+          content="Amil Silahic. Front End Developer Main Page"
+        />
         des
       </Head>
       <MainHead />
