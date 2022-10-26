@@ -1,5 +1,6 @@
 import Code from "../../public/code.avif";
 import Image from "next/image";
+// photo from https://freelogocreator.com/
 import Takeya from "../../public/Takeya.jpeg";
 
 const Portfolio = () => {

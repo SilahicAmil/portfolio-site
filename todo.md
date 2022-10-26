@@ -1,0 +1,8 @@
+- Add Projects to works tab
+- Modify layout on works - check tailwnd col-span
+- Create 2 web projects
+- Create 2 mobile projects
+- Add links on works to code and site for each project
+- Deploy projects on vercel probably
+- Find a better profile photo and about me photo
+- Create dark modle toggler
