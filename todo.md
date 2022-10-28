@@ -6,3 +6,4 @@
 - Deploy projects on vercel probably
 - Find a better profile photo and about me photo
 - Create dark modle toggler
+- Add Three JS to home page - Maybe like an on scroll effect

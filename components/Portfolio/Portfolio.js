@@ -30,10 +30,22 @@ const Portfolio = () => {
                 </p>
                 <div className="card-actions justify-between mt-2">
                   <button className="btn bg-white text-black hover:bg-black hover:text-white">
-                    View Site
+                    <a
+                      href="https://nextjs-dashboard-three.vercel.app/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      View Site
+                    </a>
                   </button>
                   <button className="btn bg-white text-black hover:bg-black hover:text-white">
-                    View Code
+                    <a
+                      href="https://github.com/SilahicAmil/nextjs-dashboard"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      View Code
+                    </a>
                   </button>
                 </div>
               </div>
