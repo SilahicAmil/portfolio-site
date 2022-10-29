@@ -19,7 +19,7 @@ const Portfolio = () => {
               <div className="card-body shadow-xl ">
                 <h2 className="card-title text-3xl">Takeya Ticket</h2>
                 <p className="text-md">
-                  {/* Add Technologies Here */}
+                  {/* Add Description Here */}
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum
                   vitae itaque placeat cupiditate numquam non tempore ipsum
                   magni suscipit eius eaque error corrupti maxime sit nesciunt
