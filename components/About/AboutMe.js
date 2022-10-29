@@ -8,7 +8,7 @@ import ProfilePhoto from "../../public/profile-photo.jpeg";
 
 const AboutMe = () => {
   return (
-    <div className=" bg-[#f2f6f7]  md:px-6 lg:px-20 px-4 lg:rounded-2xl sm:px-5 font-mono items-center ">
+    <div className=" bg-[#f2f6f7] py-4 md:px-6 lg:px-20 px-4 lg:rounded-2xl sm:px-5 font-mono items-center ">
       <div className="py-12">
         <h2 className="mt-12 text-4xl lg:mt-0">About Me</h2>
         <div className="grid grid-cols-12  md:gap-10 pt-4 md:pt-[40px] items-center justify-center">
@@ -44,7 +44,7 @@ const AboutMe = () => {
                     <p className="text-sm text-gray-600">Email:</p>
                     <h6>
                       <Link href="mailto:jinobie02@gmail.com">
-                        jinobie02@gmail.com
+                        amil@amil.dev
                       </Link>
                     </h6>
                   </div>

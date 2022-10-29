@@ -1,6 +1,7 @@
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 
 import Image from "next/image";
+import { MdEmail } from "react-icons/md";
 import ProfilePhoto from "../../public/profile-photo.jpeg";
 
 const MainHead = () => {
@@ -14,10 +15,14 @@ const MainHead = () => {
         height={250}
         layout="fixed"
       />
-      <h3 className="mt-6 mb-2 text-xl font-semibold">Amil Silahic</h3>
+      <h3 className="mt-6 mb-1 text-xl font-semibold">Amil Silahic</h3>
       <p>Front End Developer</p>
+      <p className="mt-2 flex ">
+        <MdEmail className="text-2xl mr-2" />
+        {/* Make this an link to email */}
+        <span>amil@amil.dev</span>
+      </p>
       <div className="flex space-x-4  mt-2 p-4">
-        {/* add logos here */}
         <span className="btn btn-ghost text-3xl hover:bg-black hover:text-white">
           <a
             className=""

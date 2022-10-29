@@ -6,8 +6,8 @@ import Takeya from "../../public/Takeya.jpeg";
 const Portfolio = () => {
   return (
     <>
-      <section className="font-mono min-h-screen items-center ">
-        <div className=" mb-8 px-4 s:px-5 md:px-10 lg:px-[60px]">
+      <section className="font-mono min-h-screen items-center py-4">
+        <div className=" mb-8 px-4 s:px-5 md:px-10 lg:px-[60px] py-12">
           <div className="py-12">
             <h2 className="mt-4 text-4xl">Portfolio</h2>
           </div>
