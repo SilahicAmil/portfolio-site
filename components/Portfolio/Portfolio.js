@@ -29,28 +29,27 @@ const Portfolio = () => {
                   Technologies: NextJS, MongoDB, NextAuth, DaisyUI, TailwindCSS
                 </p>
                 <div className="card-actions justify-between mt-2">
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
-                    <a
-                      href="https://nextjs-dashboard-three.vercel.app/"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      View Site
-                    </a>
-                  </button>
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
-                    <a
-                      href="https://github.com/SilahicAmil/nextjs-dashboard"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      View Code
-                    </a>
-                  </button>
+                  <a
+                    href="https://nextjs-dashboard-three.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
+                    View Site
+                  </a>
+
+                  <a
+                    href="https://github.com/SilahicAmil/nextjs-dashboard"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
+                    View Code
+                  </a>
                 </div>
               </div>
             </div>
-            <div className="card   shadow-xl">
+            <div className="card  shadow-xl">
               <figure>
                 <Image src={Code} alt="code" height={400} />
               </figure>
@@ -64,12 +63,23 @@ const Portfolio = () => {
                 </p>
                 <p className="text-sm">Technologies:</p>
                 <div className="card-actions justify-between mt-2">
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
+                  <a
+                    href=""
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
                     View Site
-                  </button>
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
+                  </a>
+
+                  <a
+                    href=""
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
                     View Code
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -87,12 +97,22 @@ const Portfolio = () => {
                 </p>
                 <p className="text-sm">Technologies:</p>
                 <div className="card-actions justify-between mt-2">
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
+                  <a
+                    href=""
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
                     View Site
-                  </button>
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
+                  </a>
+                  <a
+                    href=""
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
                     View Code
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -110,12 +130,22 @@ const Portfolio = () => {
                 </p>
                 <p className="text-sm">Technologies:</p>
                 <div className="card-actions justify-between mt-2">
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
+                  <a
+                    href=""
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
                     View Site
-                  </button>
-                  <button className="btn bg-white text-black hover:bg-black hover:text-white">
+                  </a>
+                  <a
+                    href=""
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn bg-white text-black hover:bg-black hover:text-white"
+                  >
                     View Code
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>

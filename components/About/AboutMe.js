@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import Image from "next/image";
 import Link from "next/link";
 import { MdEmail } from "react-icons/md";
-import ProfilePhoto from "../../public/profile-photo.jpeg";
+import ProfilePhoto from "../../public/updated-profile.png";
 
 const AboutMe = () => {
   return (

@@ -1,8 +1,8 @@
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 
 import Image from "next/image";
-import { MdEmail } from "react-icons/md";
-import ProfilePhoto from "../../public/profile-photo.jpeg";
+import Link from "next/link";
+import ProfilePhoto from "../../public/updated-profile.png";
 
 const MainHead = () => {
   return (
@@ -17,12 +17,7 @@ const MainHead = () => {
       />
       <h3 className="mt-6 mb-1 text-xl font-semibold">Amil Silahic</h3>
       <p>Front End Developer</p>
-      <p className="mt-2 flex ">
-        <MdEmail className="text-2xl mr-2" />
-        {/* Make this an link to email */}
-        <span>amil@amil.dev</span>
-      </p>
-      <div className="flex space-x-4  mt-2 p-4">
+      <div className="flex space-x-4 p-2">
         <span className="btn btn-ghost text-3xl hover:bg-black hover:text-white">
           <a
             className=""
@@ -42,6 +37,13 @@ const MainHead = () => {
             <BsGithub />
           </a>
         </span>
+      </div>
+      <div className="flex space-x-4">
+        <Link href="/works">
+          <button className="btn bg-black text-white hover:bg-white hover:text-black">
+            View My Works
+          </button>
+        </Link>
       </div>
     </div>
   );
