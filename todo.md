@@ -16,4 +16,5 @@
 - Add links on works to code and site for each project
 - Create 2 High Quality Sites - Takeya Ticket and TBD (fully functional real world sites)
 - Create 2 UI/UX Sites like gallery idea from frontendmasters (Barebones funcationality)
-- Modify layout on works - check tailwnd col-span
+- Create a click me button
+- ^ Opens modal which photo, technologies used and short description with view code and live site buttons
