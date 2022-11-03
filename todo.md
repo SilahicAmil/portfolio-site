@@ -2,7 +2,7 @@
 
 * Add Three JS to home page - Maybe like an on scroll effect?
 * Add Button on home page that takes directly to works
-* Find a better profile photo and about me photo
+
 * Create dark mode toggler
 
 - About Me -----
@@ -16,5 +16,3 @@
 - Add links on works to code and site for each project
 - Create 2 High Quality Sites - Takeya Ticket and TBD (fully functional real world sites)
 - Create 2 UI/UX Sites like gallery idea from frontendmasters (Barebones funcationality)
-- Create a click me button
-- ^ Opens modal which photo, technologies used and short description with view code and live site buttons
