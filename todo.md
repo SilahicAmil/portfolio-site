@@ -14,5 +14,5 @@
 - Works -----
 - Create the cards into reusable components (2 much repeat HTML)
 - Add links on works to code and site for each project
-- Create 2 High Quality Sites - Takeya Ticket and TBD (fully functional real world sites)
+- Create 2 High Quality Sites - Takeya Ticket and WatchTogether Clone Type (fully functional real world sites)
 - Create 2 UI/UX Sites like gallery idea from frontendmasters (Barebones funcationality)
