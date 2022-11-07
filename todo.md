@@ -1,7 +1,7 @@
 - Main Page -----
 
 * Add Three JS to home page - Maybe like an on scroll effect?
-* Add Button on home page that takes directly to works
+<!-- * Add Button on home page that takes directly to works -->
 
 * Create dark mode toggler
 
