@@ -27,7 +27,7 @@ const Portfolio = () => {
                   Technologies: NextJS, MongoDB, NextAuth, DaisyUI, TailwindCSS
                 </p>
                 <p className="text-sm">
-                  Lighthouse Score: Performance: 96. Accessibility: 85. Best
+                  Lighthouse Score: Performance: 100. Accessibility: 90. Best
                   Practices: 92. SEO: 80
                 </p>
                 <div className="card-actions justify-between mt-2">
