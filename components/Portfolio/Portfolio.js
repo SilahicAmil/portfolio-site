@@ -20,13 +20,15 @@ const Portfolio = () => {
                 <h2 className="card-title text-3xl">Takeya Ticket</h2>
                 <p className="text-md">
                   {/* Add Description Here */}
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum
-                  vitae itaque placeat cupiditate numquam non tempore ipsum
-                  magni suscipit eius eaque error corrupti maxime sit nesciunt
-                  facere voluptatibus, quis architecto?
+                  Single Review Ticketing (SRT) System. Tier 1/2 Analyst submit
+                  bug tickets to Engineers to review.
                 </p>
                 <p className="text-sm">
                   Technologies: NextJS, MongoDB, NextAuth, DaisyUI, TailwindCSS
+                </p>
+                <p className="text-sm">
+                  Lighthouse Score: Performance: 96. Accessibility: 85. Best
+                  Practices: 92. SEO: 80
                 </p>
                 <div className="card-actions justify-between mt-2">
                   <a
